@@ -143,4 +143,4 @@ df.to_csv('titanic_cleaned.csv', index=False)
 **Mohamed Saied**  
 Senior Software Engineer (Mobile) @ RSI Tech  
 
-📫 Connect on [LinkedIn](https://www.linkedin.com/geopmohamed) or view more projects on [GitHub](https://github.com/Mohamed-said-salah)
+📫 Connect on [LinkedIn](https://www.linkedin.com/in/geophmohamed) or view more projects on [GitHub](https://github.com/Mohamed-said-salah)
